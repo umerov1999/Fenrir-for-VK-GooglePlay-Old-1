@@ -1,4 +1,4 @@
-# Fenrir VK
+# Fenrir VK GooglePlay
 Первый языческий
 
 # Новый репозиторий https://github.com/umerov1999/Fenrir-for-VK
